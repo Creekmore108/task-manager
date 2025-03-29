@@ -1,5 +1,5 @@
-Clone repository to your environment
-Create database called task-manager
-Run composer updated
-Run php artisan Migrate --seed
-Run composer run dev
+Step 1. Clone repository to your environment
+Step 2. Create database called task-manager
+Step 3. Run composer updated
+Step 4. Run php artisan Migrate --seed
+Step 5. Run composer run dev
