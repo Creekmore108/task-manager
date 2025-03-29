@@ -1,4 +1,4 @@
-Step 1. Clone repository to your environment
+Step 1. Clone repository to your environment\n
 Step 2. Create database called task-manager
 Step 3. Run composer updated
 Step 4. Run php artisan Migrate --seed
